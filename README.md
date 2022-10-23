@@ -8,7 +8,7 @@
 2. Make changes to the code on that branch, add your details in data.js like below and commit.
     ```
     {
-        projectName: "Tripsplit",
+        projectName: "Tripsdistribute",
         techStack: "An app to slipt the trip cost between friends.",
     },
    ```
